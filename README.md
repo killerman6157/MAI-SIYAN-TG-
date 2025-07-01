@@ -74,3 +74,26 @@ TelegramAccountBot/
 | /account_balance   | Check your stats & balance|
 | /withdraw          | Choose withdrawal method  |
 | /language          | Switch between English/Hausa |
+
+# 🤖 Future Plans
+
+Full Pyrogram/Telethon integration for OTP login
+
+Admin panel for managing sellers
+
+Auto alert when price drops
+
+
+
+---
+
+# 👤 Developer
+
+Made with ❤️ by Bashir Rabiu
+
+
+---
+
+# ⚠️ Disclaimer
+
+This bot is for educational and automation purposes within your private teams only. Be responsible when handling user data and Telegram accounts. We do not support misuse or violations of Telegram policies.
