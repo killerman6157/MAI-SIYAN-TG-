@@ -1,0 +1,57 @@
+# Telegram Bot .gitignore
+
+# Environment variables (IMPORTANT - never share credentials)
+.env
+*.env
+
+# Session files (contain sensitive login data)
+sessions/
+*.session
+
+# Database files (may contain user data)
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Logs
+*.log
+logs/
+bot.log
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Backup files
+*.bak
+backup/
+
+# User data directories
+data/
+user_data/
+
+# Testing files
+test_*.py
+*_test.py
